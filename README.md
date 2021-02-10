@@ -1,9 +1,6 @@
 # Welcome
 
 We are a Github organization creating a tiny impact in the world through code. We talk less, deliver more. If you are here, you probably were invited by the team. Just read the guidelines to start contributing.
-
-<details>
-<summary>Contribution Guide</summary>
   
 ## Reporting Issues
 
@@ -110,7 +107,5 @@ Use an appropriate commit type. Be especially careful with breaking changes.
 ## Releases
 
 For each new commit added to `master` with `git push` or by merging a pull request or merging from another branch, a github action is triggered and creates a deployment.
-
-</details>
 
 The issues will find you. If not, just choose any of the tasks from the project board and just raise a PR.
